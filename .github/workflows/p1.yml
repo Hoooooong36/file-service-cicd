@@ -2,7 +2,7 @@ name: p1
 on:
   push:
     paths:
-      - .github/workflows/warmup.yml
+      - .github/workflows/p1.yml
   workflow_dispatch:
 jobs:
   context:
