@@ -1,5 +1,4 @@
 #!/bin/bash
-# 현재 위치: EC2 <student_id>-cicd-ec2 user-data (첫 부팅, root)
 # 퍼블릭 서브넷 · local 프로파일(H2 · 메모리 캐시 · 로그 기록기) — AWS 저장소 없이 뜸
 set -euxo pipefail
 
